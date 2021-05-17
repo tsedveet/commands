@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 #local deer nemsen
+>>>>>>> c3574ecd98d27c68f38428aa3ad80149f04c3478
 feature brach deerees new.txt nemlee
