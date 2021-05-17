@@ -34,6 +34,8 @@ git командуудын тайлбар цагаан толгойн үсгий
 
 `git config user.email [email_address] ` **Өөрийн имэйлийг энд тохируулна (github username ээ тавьж github руу push хийнэ)**
 
+`git config user.email [email_address] ` **Өөрийн имэйлийг энд тохируулна (github username ээ тавьж github руу push хийнэ)**
+
 `git log --oneline` **Идэвхитэй, зөв засагдсан коммитуудын түүхийг харуулна.** `v60|09:47`
 
 `git log --oneline --all --graph [hash_code]` **git түүхийг коммит бүрийг нэг мөрт багтааж бранчийн график зураастай хамт үзүүлнэ**
